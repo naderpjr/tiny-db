@@ -1,0 +1,8 @@
+70bd3bb1 {"type":"put","col":"users","id":"e2f53742","doc":{"name":"John","age":20,"city":"London","_id":"e2f53742"}}
+296d46df {"type":"put","col":"users","id":"8112b227","doc":{"name":"Emma","age":30,"city":"Paris","_id":"8112b227"}}
+eed5761a {"type":"put","col":"users","id":"697e37fc","doc":{"name":"Liam","age":17,"city":"London","_id":"697e37fc"}}
+a9ce15a8 {"type":"put","col":"users","id":"19dd6abc","doc":{"name":"Sophia","age":25,"city":"Berlin","_id":"19dd6abc"}}
+626b7449 {"type":"put","col":"users","id":"ee13e6e0","doc":{"name":"Lucas","age":33,"city":"New York","_id":"ee13e6e0"}}
+d01fd9b0 {"type":"put","col":"users","id":"7b2a7eb0","doc":{"name":"Olivia","age":28,"city":"Paris","_id":"7b2a7eb0"}}
+809eb6af {"type":"put","col":"users","id":"e2f53742","doc":{"name":"John","age":21,"city":"London","_id":"e2f53742"}}
+70681d42 {"type":"del","col":"users","id":"697e37fc"}
